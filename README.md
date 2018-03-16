@@ -1,5 +1,5 @@
 ![coffeeLogin](public/img/screenshot.png)
-![](public/img/screenshot 2.png)
+![](public/img/screenshot_2.png)
 My Awesome Project
 a full stack application with local user authentication users are able to choose their size and type of coffee along with other options (see screenshot 2)
 
